@@ -26,6 +26,4 @@ highlighter: pygments
 permalink: pretty
 relative_permalinks: true
 
-# Exclude
 
-exclude: ['new']
