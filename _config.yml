@@ -1,6 +1,6 @@
 # general configuration
 url: kristiannordestgaard.github.io
-baseurl: '/compass'
+# baseurl: '/compass'
 
 # compass configuration
 compass:
