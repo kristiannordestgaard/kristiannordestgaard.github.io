@@ -28,4 +28,4 @@ relative_permalinks: true
 
 # Exclude
 
-exclude [new]
+exclude: ['new']
