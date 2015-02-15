@@ -1,5 +1,5 @@
 # general configuration
-url: kristiannordestgaard.github.io
+url: kristiannordestgaard.github.io/new
 # baseurl: '/compass'
 
 # compass configuration
@@ -7,7 +7,7 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Kristian Nordestgaard"
+  author: "Side 2"
   # tagline will appear under the title (optional)
   tagline: "Denne side er skabt med <a href='http://jekyllrb.com'>Jekyll</a>/<a href='https://github.com/excentris/compass'>Compass</a>."
   # if include_content is true, the contents of the content.html include will be
