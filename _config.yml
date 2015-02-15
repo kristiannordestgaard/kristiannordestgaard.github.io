@@ -1,6 +1,6 @@
 # general configuration
-url: http://excentris.net
-baseurl: ''
+url: kristiannordestgaard.github.io
+baseurl: '/compass'
 
 # compass configuration
 compass:
